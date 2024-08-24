@@ -37,7 +37,7 @@ int main(void)
     int totalSize = firstSize + secondSize;
     int *totalArray = new int(firstSize + secondSize);
 
-    // Asking User's Numbers
+    // Asking User for their Numbers
     int num;
 
     // For First Array
